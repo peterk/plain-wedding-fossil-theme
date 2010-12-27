@@ -1,3 +1,6 @@
+================================
+ A lightweight Fossil SCM theme 
+================================
 
 This is a skin configuration for the Fossil SCM system: http://www.fossil-scm.org/
 
@@ -5,6 +8,7 @@ You can install it from the admin interface in Fossil.
 
 License
 -------
+
 Same license as Fossil. See http://www.fossil-scm.org/index.html/doc/trunk/COPYRIGHT-BSD2.txt
 
 Created by Peter Krantz: http://www.peterkrantz.com/
